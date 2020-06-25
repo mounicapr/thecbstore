@@ -1,0 +1,36 @@
+.header {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+  
+    .logo-container {
+      height: 100%;
+      width: 4.5rem;
+      padding: 1.5rem;
+      text-decoration: none;
+
+    .logo {
+        letter-spacing: 0.5rem;
+        text-decoration: none;
+    }
+    }
+  
+    .options {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      text-decoration: none;
+      letter-spacing: 0.2rem;
+  
+      .option {
+        padding: 10px 15px;
+        text-decoration: none;
+        letter-spacing: 0.2rem;
+      }
+    }
+  }
+  
